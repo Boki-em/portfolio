@@ -12,10 +12,14 @@ JavaScript
 
 ## Projects
 **brAIniac Project** - AI-based solution : Team project
+
 **Campus Café Website** - Front-End and form handling with PHP
+
 **GitHub Portfolio** - This repo!
 
-##Contact
-**L0cation:** Germiston Gauteng
+## Contact
+**Location:** Germiston Gauteng
+
 **Email:** emilymoeletsi04@gmail.com
+
 **GitHub:** [github.com/Boki-em](https://github.com/Boki-em)
